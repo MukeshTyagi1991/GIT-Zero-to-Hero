@@ -113,3 +113,6 @@ history
 git status (all the commit message and log comes from master barch to your dev barch )
 <img width="1043" height="571" alt="image" src="https://github.com/user-attachments/assets/993b795d-941e-43a6-a519-ceed21e3c324" />
 
+<img width="509" height="364" alt="image" src="https://github.com/user-attachments/assets/ac8cf057-e4f0-4225-a013-12c1024c9e22" />
+
+
