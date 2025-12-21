@@ -26,5 +26,6 @@ go to the folder:-
 3.we need to check file is under git (VCM) or not through git status command 
 4.Untracked (git status) -------staged ( git add----tracked or untracked (git rm --chached ) -------tracked (git commit) ----git restore
 
-![Uploading image.png…]()
+<img width="1029" height="761" alt="image" src="https://github.com/user-attachments/assets/060b5de4-c251-44cb-94d2-66266beba984" />
+
 
