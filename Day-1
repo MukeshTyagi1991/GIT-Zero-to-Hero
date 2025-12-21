@@ -24,7 +24,9 @@ go to the folder:-
 1.git init
 2.ls -a
 3.we need to check file is under git (VCM) or not through git status command 
-4.Untracked (git status) -------staged ( git add----tracked or untracked (git rm --cha ) -------tracked (git commit) 
+4.Untracked (git status) -------staged ( git add----tracked or untracked (git rm --chached ) -------tracked (git commit) ----git restore
+
+
 
 
 
