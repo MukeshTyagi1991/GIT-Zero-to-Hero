@@ -1,0 +1,10 @@
+1.What is GIT:- Gloabl Information Tracker and also called source code management (SCM)
+
+GIT is a version control system which is used as a source code manager which tarck history of the code .
+
+
+2.Install the GIT in your system :-
+
+(i).Download git bash for window 
+
+    Git bash ------Linux simulation or Git Bash is a command-line interface (CLI) application for Windows that provides an emulation of a Unix-like Bash shell environment (Git , SSH) 
