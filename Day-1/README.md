@@ -73,7 +73,7 @@ git commit -m "your commit message"
 5. Branching
 Create a new branch:
 
-git checkout -b <branch_name>
+git checkout (switch) -b <branch_name>
 
 Switch between branches:
 
