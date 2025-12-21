@@ -11,20 +11,20 @@ GIT is a version control system which is used as a source code manager which tar
 
 (ii) Always create a git folder so that your git always track that particlaur folder not all folder for your computer 
 
-
 Problem with Linix file system
-
 1.can't restore files
 2.can't managed version
 3.can't understand who edit
 4.Can't check edit time
 
-
-so with the help of git we can slove this problem:-
+S0 with the help of git we can slove this problem:-
 
 go to the folder:-
 
 1.git init
+2.ls -a
+3.we need to check file is under git (VCM) or not through git status command 
+4.
 
 
 
