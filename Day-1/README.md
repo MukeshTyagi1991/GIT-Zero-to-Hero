@@ -1,1 +1,30 @@
+1.What is GIT:- Gloabl Information Tracker and also called source code management (SCM)
+
+GIT is a version control system which is used as a source code manager which tarck history of the code .
+
+
+2.Install the GIT in your system :-
+
+(i).Download git bash for window 
+
+    Git bash ------Linux simulation or Git Bash is a command-line interface (CLI) application for Windows that provides an emulation of a Unix-like Bash shell environment (Git , SSH) 
+
+(ii) Always create a git folder so that your git always track that particlaur folder not all folder for your computer 
+
+Problem with Linix file system
+1.can't restore files
+2.can't managed version
+3.can't understand who edit
+4.Can't check edit time
+
+S0 with the help of git we can slove this problem:-
+
+go to the folder:-
+
+1.git init
+2.ls -a
+3.we need to check file is under git (VCM) or not through git status command 
+4.Untracked (git status) -------staged ( git add----tracked or untracked (git rm --chached ) -------tracked (git commit) ----git restore
+
+![Uploading image.png…]()
 
