@@ -51,7 +51,10 @@
 6.Now the issue with that there is no index.html file that why we are facing this issue , to reslove this issue we need to create a index.html file and upload into the S3 bucket 
 
 index.html
+
 error.html 
+
+7. Once you upload the index.html file and error.html file then you are bale to login the same URL without any issue 
 
 
 
