@@ -59,6 +59,25 @@ error.html
 
 
 
+## create IAM user
+
+
+
+
+
+
+
+## create a EC2 instance and download the AWS CLI latest version on that particluar machine so that we can access the S3 bucket from instances 
+
+configure the AWS through AWS configure command and give the AWS access key and id 
+
+once everthing is done you can check the access through AWS s3 ls command
+
+aws s3 ls
+aws s3 cp s3://bucket name/ .
+
+
+
 
 
 
